@@ -1,0 +1,64 @@
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+
+   
+    
+}
+.conh1{
+    background-image: linear-gradient(2000deg,#2bbcee 0%,rgba(93,183,132,0.14) 100%);
+    border-radius: 20px;
+    height: 100%;
+ 
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+.animal{
+    background-color: aqua;
+    border-radius: 30px;
+width: 30rem;
+height: 30rem;
+padding: 30px 15px;
+
+}
+
+.persona{
+background-color: antiquewhite;
+border-radius: 30px;
+width:35rem;
+height: 30rem;
+padding: 30px 15px;
+margin-left: 10px;
+margin-right: 10px;
+
+
+}
+.veterinaria{
+background-color: #2bbcee;
+width: 30rem;
+height: 30rem;
+	transition: all 6s;
+    justify-content: center;
+    padding: 30px 15px;
+     border-radius: 20px;
+ 
+   
+}
+.principal{
+    display: flex;
+    margin: 10x;
+    text-align:justify;
+    font-family:cursive;
+
+ .vet{
+    width: 360px;
+    height: 360px;
+ }  
+   
+    
+    
+    
+}
